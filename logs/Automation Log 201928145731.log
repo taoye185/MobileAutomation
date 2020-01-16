@@ -1,0 +1,89 @@
+---------Start of logs---------
+14:57:31.691:	The method "logComment()" are called
+14:57:31.691:	<font color='grey'>Start of onboarding testing - will access Hive V2 Acquirer Portal, Outlook Web App, as well as mpos app</font>
+14:57:31.691:	The method "logComment()" are called
+14:57:31.691:	<font color='grey'>This case assumes the app has not been opened</font>
+14:57:31.691:	The method "logComment()" are called
+14:57:31.691:	<font color='grey'>This case assumes that the browser already remembers login credentials for Outlook Web App so no login is required</font>
+14:57:31.691:	The method "logComment()" are called
+14:57:31.692:	<font color='grey'>Activation Email sent, now go check the email...</font>
+14:57:31.692:	The method "loginToOutlook()" are called
+14:57:31.692:	method loginToOutlook () is called.
+14:57:33.524:	method findCurrentPage(10) is called.
+14:57:34.024:	
+14:57:34.069:	Current page is: MicrosoftSignIn
+14:57:34.070:	inputText( MicrosoftSignInUsername , ytao@mobeewave.com is called.
+14:57:34.070:	finding elements by name MicrosoftSignInUsername
+14:57:34.070:	xpath is //*[@id="i0116"]
+14:57:34.089:	Webelement is [[ChromeDriver: chrome on XP (11922ae77682222ef4703f62e98efb00)] -> xpath: //*[@id="i0116"]]
+14:57:34.228:	MicrosoftSignInNext is being clicked.
+14:57:34.228:	finding elements by name MicrosoftSignInNext
+14:57:34.228:	xpath is //*[@id="idSIButton9"]
+14:57:34.255:	Webelement is [[ChromeDriver: chrome on XP (11922ae77682222ef4703f62e98efb00)] -> xpath: //*[@id="idSIButton9"]]
+14:57:34.356:	method findCurrentPage(10) is called.
+14:57:34.856:	
+14:57:35.003:	Current page is: MicrosoftPassword
+14:57:35.004:	inputText( MicrosoftPasswordPassword , Thankyou1 is called.
+14:57:35.004:	finding elements by name MicrosoftPasswordPassword
+14:57:35.004:	xpath is //*[@id="i0118"]
+14:57:35.026:	Webelement is [[ChromeDriver: chrome on XP (11922ae77682222ef4703f62e98efb00)] -> xpath: //*[@id="i0118"]]
+14:57:35.113:	MicrosoftPasswordSignIn is being clicked.
+14:57:35.113:	finding elements by name MicrosoftPasswordSignIn
+14:57:35.113:	xpath is //*[@id="idSIButton9"]
+14:57:35.127:	Webelement is [[ChromeDriver: chrome on XP (11922ae77682222ef4703f62e98efb00)] -> xpath: //*[@id="idSIButton9"]]
+14:57:36.448:	method findCurrentPage(10) is called.
+14:57:36.949:	
+14:57:37.022:	Current page is: MicrosoftStaySignedIn
+14:57:37.022:	MicrosoftStaySignedInYes is being clicked.
+14:57:37.022:	finding elements by name MicrosoftStaySignedInYes
+14:57:37.022:	xpath is //*[@id="idSIButton9"]
+14:57:37.041:	Webelement is [[ChromeDriver: chrome on XP (11922ae77682222ef4703f62e98efb00)] -> xpath: //*[@id="idSIButton9"]]
+14:57:39.837:	method findCurrentPage(10) is called.
+14:57:40.338:	
+14:57:41.082:	Current page is: 
+14:57:41.082:	This page  is not recognized.
+14:57:41.082:	method findCurrentPage(10) is called.
+14:57:41.582:	
+14:57:41.935:	Current page is: 
+14:57:41.935:	This page  is not recognized.
+14:57:41.935:	method findCurrentPage(10) is called.
+14:57:42.436:	
+14:57:42.911:	Current page is: OutlookFunctionality
+14:57:42.911:	The method "waitUntilPresent()" are called
+14:57:43.163:	The method "clickButton()" are called
+14:57:43.163:	OutlookFunctionalityEmailSearchCover is being clicked.
+14:57:43.163:	finding elements by name OutlookFunctionalityEmailSearchCover
+14:57:43.163:	xpath is //*[@id="primaryContainer"]/div[4]/div/div[1]/div/div[1]/div[1]/div/div/div[1]/div[1]/div[1]/div[2]/div[2]/button/span[2]
+14:57:43.309:	Webelement is [[ChromeDriver: chrome on XP (11922ae77682222ef4703f62e98efb00)] -> xpath: //*[@id="primaryContainer"]/div[4]/div/div[1]/div/div[1]/div[1]/div/div/div[1]/div[1]/div[1]/div[2]/div[2]/button/span[2]]
+14:57:43.646:	The method "waitUntilPresent()" are called
+14:57:44.218:	The method "inputText(National Bank Easy Pay Registration Instructions)" are called
+14:57:44.218:	inputText( OutlookFunctionalityEmailSearch , National Bank Easy Pay Registration Instructions is called.
+14:57:44.218:	finding elements by name OutlookFunctionalityEmailSearch
+14:57:44.218:	xpath is //*[@id="primaryContainer"]/div[4]/div/div[1]/div/div[1]/div[1]/div/div/div[1]/div[1]/div[1]/div[2]/div[2]/div/div[1]/div/form/div/input
+14:57:44.246:	Webelement is [[ChromeDriver: chrome on XP (11922ae77682222ef4703f62e98efb00)] -> xpath: //*[@id="primaryContainer"]/div[4]/div/div[1]/div/div[1]/div[1]/div/div/div[1]/div[1]/div[1]/div[2]/div[2]/div/div[1]/div/form/div/input]
+14:57:48.237:	The method "clickButton()" are called
+14:57:48.237:	OutlookFunctionalitySearchButton is being clicked.
+14:57:48.237:	finding elements by name OutlookFunctionalitySearchButton
+14:57:48.237:	xpath is //*[@id="primaryContainer"]/div[4]/div/div[1]/div/div[1]/div[1]/div/div/div[1]/div[1]/div[1]/div[2]/div[2]/div/div[1]/div/button[1]
+14:57:48.559:	Webelement is [[ChromeDriver: chrome on XP (11922ae77682222ef4703f62e98efb00)] -> xpath: //*[@id="primaryContainer"]/div[4]/div/div[1]/div/div[1]/div[1]/div/div/div[1]/div[1]/div[1]/div[2]/div[2]/div/div[1]/div/button[1]]
+14:57:49.161:	The method "wait()" are called
+14:57:52.162:	The method "clickButton()" are called
+14:57:52.162:	test1 is being clicked.
+14:57:52.162:	finding elements by name test1
+14:57:52.162:	xpath is //*[contains(text(),'National Bank Easy Pay Registration')]
+15:02:52.172:	exception caught during button click, failed to find test1
+15:02:52.172:	The method "clickButton()" are called
+15:02:52.172:	test2 is being clicked.
+15:02:52.172:	finding elements by name test2
+15:02:52.172:	xpath is //*[contains(text(),'re almost there.')]/../../..
+15:02:52.195:	Webelement is [[ChromeDriver: chrome on XP (11922ae77682222ef4703f62e98efb00)] -> xpath: //*[contains(text(),'re almost there.')]/../../..]
+15:02:52.378:	The method "clickButton()" are called
+15:02:52.378:	test3 is being clicked.
+15:02:52.378:	finding elements by name test3
+15:02:52.378:	xpath is //*[contains(text(),'All folders')]
+15:02:52.615:	Webelement is [[ChromeDriver: chrome on XP (11922ae77682222ef4703f62e98efb00)] -> xpath: //*[contains(text(),'All folders')]]
+15:02:52.850:	The method "wait()" are called
+15:02:55.851:	The method "readFromPage(EmailDetailsMerchantIDValue)" are called
+15:02:55.851:	finding elements by name EmailDetailsMerchantIDValue
+15:02:55.851:	xpath is //*[@id="Item.MessageUniqueBody"]/div/div/div/div[2]/table/tbody/tr/td/div[3]/table/tbody/tr/td/div/table/tbody/tr[2]/td/div/b
+15:02:55.875:	Webelement is [[ChromeDriver: chrome on XP (11922ae77682222ef4703f62e98efb00)] -> xpath: //*[@id="Item.MessageUniqueBody"]/div/div/div/div[2]/table/tbody/tr/td/div[3]/table/tbody/tr/td/div/table/tbody/tr[2]/td/div/b]

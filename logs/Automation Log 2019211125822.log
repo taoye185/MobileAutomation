@@ -1,0 +1,74 @@
+---------Start of logs---------
+12:58:22.476:	The method "logComment()" are called
+12:58:22.476:	<font color='grey'>Start of onboarding testing - will access Hive V2 Acquirer Portal, Outlook Web App, as well as mpos app</font>
+12:58:22.476:	The method "logComment()" are called
+12:58:22.476:	<font color='grey'>This case assumes the app has not been opened</font>
+12:58:22.476:	The method "logComment()" are called
+12:58:22.476:	<font color='grey'>This case assumes that the browser already remembers login credentials for Outlook Web App so no login is required</font>
+12:58:22.476:	The method "checkPassword()" are called
+12:58:22.476:	method loginToOutlook () is called.
+12:58:23.311:	method findCurrentPage(10) is called.
+12:58:23.811:	
+12:58:24.139:	Current page is: MicrosoftSignIn
+12:58:24.139:	inputText( MicrosoftSignInUsername , ytao@mobeewave.com is called.
+12:58:24.140:	finding elements by name MicrosoftSignInUsername
+12:58:24.140:	xpath is //*[@id="i0116"]
+12:58:24.157:	Webelement is [[ChromeDriver: chrome on XP (bbd99ae73dd07c8f93f205e00d6c9f80)] -> xpath: //*[@id="i0116"]]
+12:58:24.267:	MicrosoftSignInNext is being clicked.
+12:58:24.267:	finding elements by name MicrosoftSignInNext
+12:58:24.267:	xpath is //*[@id="idSIButton9"]
+12:58:24.286:	Webelement is [[ChromeDriver: chrome on XP (bbd99ae73dd07c8f93f205e00d6c9f80)] -> xpath: //*[@id="idSIButton9"]]
+12:58:24.359:	method findCurrentPage(10) is called.
+12:58:24.859:	
+12:58:24.951:	Current page is: MicrosoftPassword
+12:58:24.951:	inputText( MicrosoftPasswordPassword , Thankyou1 is called.
+12:58:24.951:	finding elements by name MicrosoftPasswordPassword
+12:58:24.952:	xpath is //*[@id="i0118"]
+12:58:24.966:	Webelement is [[ChromeDriver: chrome on XP (bbd99ae73dd07c8f93f205e00d6c9f80)] -> xpath: //*[@id="i0118"]]
+12:58:25.014:	MicrosoftPasswordSignIn is being clicked.
+12:58:25.014:	finding elements by name MicrosoftPasswordSignIn
+12:58:25.014:	xpath is //*[@id="idSIButton9"]
+12:58:25.024:	Webelement is [[ChromeDriver: chrome on XP (bbd99ae73dd07c8f93f205e00d6c9f80)] -> xpath: //*[@id="idSIButton9"]]
+12:58:25.479:	method findCurrentPage(10) is called.
+12:58:25.979:	
+12:58:26.020:	Current page is: MicrosoftStaySignedIn
+12:58:26.020:	MicrosoftStaySignedInYes is being clicked.
+12:58:26.020:	finding elements by name MicrosoftStaySignedInYes
+12:58:26.020:	xpath is //*[@id="idSIButton9"]
+12:58:26.032:	Webelement is [[ChromeDriver: chrome on XP (bbd99ae73dd07c8f93f205e00d6c9f80)] -> xpath: //*[@id="idSIButton9"]]
+12:58:29.440:	method findCurrentPage(10) is called.
+12:58:29.941:	
+12:58:30.023:	Current page is: 
+12:58:30.023:	This page  is not recognized.
+12:58:30.023:	method findCurrentPage(10) is called.
+12:58:30.523:	
+12:58:30.572:	Current page is: 
+12:58:30.572:	This page  is not recognized.
+12:58:30.572:	method findCurrentPage(10) is called.
+12:58:31.073:	
+12:58:31.156:	Current page is: 
+12:58:31.156:	This page  is not recognized.
+12:58:31.156:	method findCurrentPage(10) is called.
+12:58:31.656:	
+12:58:31.692:	Current page is: OutlookFunctionality
+12:58:31.718:	OutlookFunctionalityEmailSearchCover is being clicked.
+12:58:31.719:	finding elements by name OutlookFunctionalityEmailSearchCover
+12:58:31.719:	xpath is //*[@id="primaryContainer"]/div[4]/div/div[1]/div/div[1]/div[1]/div/div/div[1]/div[1]/div[1]/div[2]/div[2]/button/span[2]
+12:58:31.738:	Webelement is [[ChromeDriver: chrome on XP (bbd99ae73dd07c8f93f205e00d6c9f80)] -> xpath: //*[@id="primaryContainer"]/div[4]/div/div[1]/div/div[1]/div[1]/div/div/div[1]/div[1]/div[1]/div[2]/div[2]/button/span[2]]
+12:58:32.905:	inputText( OutlookFunctionalityEmailSearch , National Bank Easy Pay Registration Instructions is called.
+12:58:32.905:	finding elements by name OutlookFunctionalityEmailSearch
+12:58:32.905:	xpath is //*[@id="primaryContainer"]/div[4]/div/div[1]/div/div[1]/div[1]/div/div/div[1]/div[1]/div[1]/div[2]/div[2]/div/div[1]/div/form/div/input
+12:58:32.920:	Webelement is [[ChromeDriver: chrome on XP (bbd99ae73dd07c8f93f205e00d6c9f80)] -> xpath: //*[@id="primaryContainer"]/div[4]/div/div[1]/div/div[1]/div[1]/div/div/div[1]/div[1]/div[1]/div[2]/div[2]/div/div[1]/div/form/div/input]
+12:58:33.771:	OutlookFunctionalitySearchButton is being clicked.
+12:58:33.771:	finding elements by name OutlookFunctionalitySearchButton
+12:58:33.771:	xpath is //*[@id="primaryContainer"]/div[4]/div/div[1]/div/div[1]/div[1]/div/div/div[1]/div[1]/div[1]/div[2]/div[2]/div/div[1]/div/button[1]
+12:58:33.816:	Webelement is [[ChromeDriver: chrome on XP (bbd99ae73dd07c8f93f205e00d6c9f80)] -> xpath: //*[@id="primaryContainer"]/div[4]/div/div[1]/div/div[1]/div[1]/div/div/div[1]/div[1]/div[1]/div[2]/div[2]/div/div[1]/div/button[1]]
+12:58:34.654:	EmailListLatestEmail is being clicked.
+12:58:34.654:	finding elements by name EmailListLatestEmail
+12:58:34.654:	xpath is //*[@id="primaryContainer"]/div[4]/div/div[1]/div/div[4]/div[3]/div/div[2]/div/div/div/div[5]/div[3]/div[1]/div[3]/div[1]/div/div/div[2]/div[6]
+12:58:34.723:	Webelement is [[ChromeDriver: chrome on XP (bbd99ae73dd07c8f93f205e00d6c9f80)] -> xpath: //*[@id="primaryContainer"]/div[4]/div/div[1]/div/div[4]/div[3]/div/div[2]/div/div/div/div[5]/div[3]/div[1]/div[3]/div[1]/div/div/div[2]/div[6]]
+12:58:35.632:	finding elements by name EmailDetailsPasswordValue
+12:58:35.632:	xpath is //*[@id="Item.MessageUniqueBody"]/div/div/div/div[2]/table/tbody/tr/td/div[3]/table/tbody/tr/td/div/table/tbody/tr[3]/td/div/b
+12:58:35.657:	Webelement is [[ChromeDriver: chrome on XP (bbd99ae73dd07c8f93f205e00d6c9f80)] -> xpath: //*[@id="Item.MessageUniqueBody"]/div/div/div/div[2]/table/tbody/tr/td/div[3]/table/tbody/tr/td/div/table/tbody/tr[3]/td/div/b]
+12:58:35.657:	we is [[ChromeDriver: chrome on XP (bbd99ae73dd07c8f93f205e00d6c9f80)] -> xpath: //*[@id="Item.MessageUniqueBody"]/div/div/div/div[2]/table/tbody/tr/td/div[3]/table/tbody/tr/td/div/table/tbody/tr[3]/td/div/b]
+12:58:35.674:	value is NT6]r$9#

@@ -1,0 +1,83 @@
+---------Start of logs---------
+11:05:35.140:	The method "logComment()" are called
+11:05:35.140:	<font color='grey'>Start of onboarding testing - will access Hive V2 Acquirer Portal, Outlook Web App, as well as mpos app</font>
+11:05:35.140:	The method "logComment()" are called
+11:05:35.140:	<font color='grey'>This case assumes the app has not been opened</font>
+11:05:35.140:	The method "logComment()" are called
+11:05:35.140:	<font color='grey'>This case assumes that the browser already remembers login credentials for Outlook Web App so no login is required</font>
+11:05:35.140:	The method "logComment()" are called
+11:05:35.140:	<font color='grey'>Activation Email sent, now go check the email...</font>
+11:05:35.140:	The method "loginToOutlook()" are called
+11:05:35.140:	method loginToOutlook () is called.
+11:05:35.947:	method findCurrentPage(10) is called.
+11:05:36.447:	
+11:05:36.713:	Current page is: MicrosoftSignIn
+11:05:36.713:	inputText( MicrosoftSignInUsername , ytao@mobeewave.com is called.
+11:05:36.713:	finding elements by name MicrosoftSignInUsername
+11:05:36.713:	xpath is //*[@id="i0116"]
+11:05:36.742:	Webelement is [[ChromeDriver: chrome on XP (7294c158f5312d2137fc79144bc7ef5a)] -> xpath: //*[@id="i0116"]]
+11:05:36.876:	MicrosoftSignInNext is being clicked.
+11:05:36.876:	finding elements by name MicrosoftSignInNext
+11:05:36.876:	xpath is //*[@id="idSIButton9"]
+11:05:36.893:	Webelement is [[ChromeDriver: chrome on XP (7294c158f5312d2137fc79144bc7ef5a)] -> xpath: //*[@id="idSIButton9"]]
+11:05:36.975:	method findCurrentPage(10) is called.
+11:05:37.475:	
+11:05:37.582:	Current page is: MicrosoftPassword
+11:05:37.582:	inputText( MicrosoftPasswordPassword , Thankyou1 is called.
+11:05:37.582:	finding elements by name MicrosoftPasswordPassword
+11:05:37.582:	xpath is //*[@id="i0118"]
+11:05:37.603:	Webelement is [[ChromeDriver: chrome on XP (7294c158f5312d2137fc79144bc7ef5a)] -> xpath: //*[@id="i0118"]]
+11:05:37.699:	MicrosoftPasswordSignIn is being clicked.
+11:05:37.699:	finding elements by name MicrosoftPasswordSignIn
+11:05:37.699:	xpath is //*[@id="idSIButton9"]
+11:05:37.712:	Webelement is [[ChromeDriver: chrome on XP (7294c158f5312d2137fc79144bc7ef5a)] -> xpath: //*[@id="idSIButton9"]]
+11:05:38.181:	method findCurrentPage(10) is called.
+11:05:38.681:	
+11:05:38.726:	Current page is: MicrosoftStaySignedIn
+11:05:38.726:	MicrosoftStaySignedInYes is being clicked.
+11:05:38.726:	finding elements by name MicrosoftStaySignedInYes
+11:05:38.726:	xpath is //*[@id="idSIButton9"]
+11:05:38.737:	Webelement is [[ChromeDriver: chrome on XP (7294c158f5312d2137fc79144bc7ef5a)] -> xpath: //*[@id="idSIButton9"]]
+11:05:40.081:	method findCurrentPage(10) is called.
+11:05:40.581:	
+11:05:41.614:	Current page is: 
+11:05:41.615:	This page  is not recognized.
+11:05:41.615:	method findCurrentPage(10) is called.
+11:05:42.116:	
+11:05:42.191:	Current page is: 
+11:05:42.191:	This page  is not recognized.
+11:05:42.191:	method findCurrentPage(10) is called.
+11:05:42.692:	
+11:05:42.862:	Current page is: 
+11:05:42.862:	This page  is not recognized.
+11:05:42.862:	method findCurrentPage(10) is called.
+11:05:43.362:	
+11:05:43.437:	Current page is: OutlookFunctionality
+11:05:43.437:	The method "waitUntilPresent()" are called
+11:05:43.473:	The method "clickButton()" are called
+11:05:43.473:	OutlookFunctionalityEmailSearchCover is being clicked.
+11:05:43.473:	finding elements by name OutlookFunctionalityEmailSearchCover
+11:05:43.473:	xpath is //*[@id="primaryContainer"]/div[4]/div/div[1]/div/div[1]/div[1]/div/div/div[1]/div[1]/div[1]/div[2]/div[2]/button/span[2]
+11:05:43.493:	Webelement is [[ChromeDriver: chrome on XP (7294c158f5312d2137fc79144bc7ef5a)] -> xpath: //*[@id="primaryContainer"]/div[4]/div/div[1]/div/div[1]/div[1]/div/div/div[1]/div[1]/div[1]/div[2]/div[2]/button/span[2]]
+11:05:43.640:	The method "waitUntilPresent()" are called
+11:05:44.186:	The method "inputText(National Bank Easy Pay Registration Instructions)" are called
+11:05:44.186:	inputText( OutlookFunctionalityEmailSearch , National Bank Easy Pay Registration Instructions is called.
+11:05:44.186:	finding elements by name OutlookFunctionalityEmailSearch
+11:05:44.186:	xpath is //*[@id="primaryContainer"]/div[4]/div/div[1]/div/div[1]/div[1]/div/div/div[1]/div[1]/div[1]/div[2]/div[2]/div/div[1]/div/form/div/input
+11:05:44.201:	Webelement is [[ChromeDriver: chrome on XP (7294c158f5312d2137fc79144bc7ef5a)] -> xpath: //*[@id="primaryContainer"]/div[4]/div/div[1]/div/div[1]/div[1]/div/div/div[1]/div[1]/div[1]/div[2]/div[2]/div/div[1]/div/form/div/input]
+11:05:44.944:	The method "clickButton()" are called
+11:05:44.944:	OutlookFunctionalitySearchButton is being clicked.
+11:05:44.945:	finding elements by name OutlookFunctionalitySearchButton
+11:05:44.945:	xpath is //*[@id="primaryContainer"]/div[4]/div/div[1]/div/div[1]/div[1]/div/div/div[1]/div[1]/div[1]/div[2]/div[2]/div/div[1]/div/button[1]
+11:05:44.962:	Webelement is [[ChromeDriver: chrome on XP (7294c158f5312d2137fc79144bc7ef5a)] -> xpath: //*[@id="primaryContainer"]/div[4]/div/div[1]/div/div[1]/div[1]/div/div/div[1]/div[1]/div[1]/div[2]/div[2]/div/div[1]/div/button[1]]
+11:05:45.080:	The method "wait()" are called
+11:05:48.082:	The method "clickButton()" are called
+11:05:48.082:	test2 is being clicked.
+11:05:48.082:	finding elements by name test2
+11:05:48.082:	xpath is //*[contains(text(),'re almost there.')]/../../..
+11:05:48.112:	Webelement is [[ChromeDriver: chrome on XP (7294c158f5312d2137fc79144bc7ef5a)] -> xpath: //*[contains(text(),'re almost there.')]/../../..]
+11:05:48.222:	The method "wait()" are called
+11:05:51.222:	The method "readFromPage(EmailDetailsMerchantIDValue)" are called
+11:05:51.222:	finding elements by name EmailDetailsMerchantIDValue
+11:05:51.222:	xpath is //*[@id="Item.MessageUniqueBody"]/div/div/div/div[2]/table/tbody/tr/td/div[3]/table/tbody/tr/td/div/table/tbody/tr[2]/td/div/b
+11:05:51.365:	Webelement is [[ChromeDriver: chrome on XP (7294c158f5312d2137fc79144bc7ef5a)] -> xpath: //*[@id="Item.MessageUniqueBody"]/div/div/div/div[2]/table/tbody/tr/td/div[3]/table/tbody/tr/td/div/table/tbody/tr[2]/td/div/b]

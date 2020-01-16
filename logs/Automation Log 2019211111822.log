@@ -1,0 +1,14 @@
+---------Start of logs---------
+11:18:22.524:	The method "logComment()" are called
+11:18:22.524:	<font color='grey'>Start of onboarding testing - will access Hive V2 Acquirer Portal, Outlook Web App, as well as mpos app</font>
+11:18:22.524:	The method "logComment()" are called
+11:18:22.524:	<font color='grey'>This case assumes the app has not been opened</font>
+11:18:22.524:	The method "logComment()" are called
+11:18:22.524:	<font color='grey'>This case assumes that the browser already remembers login credentials for Outlook Web App so no login is required</font>
+11:18:22.524:	The method "logComment()" are called
+11:18:22.524:	<font color='grey'>Activation Email sent, now go check the email...</font>
+11:18:22.524:	The method "loginToOutlook()" are called
+11:18:22.524:	method loginToOutlook () is called.
+11:18:24.195:	method findCurrentPage(10) is called.
+11:18:24.695:	
+11:18:24.738:	Current page is: MicrosoftSignIn

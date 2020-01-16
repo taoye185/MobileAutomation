@@ -1,0 +1,13 @@
+---------Start of logs---------
+12:58:35.676:	writeElement is called
+12:58:35.676:	method get (MicrosoftPassword) is called.
+12:58:35.676:	weight is: 1
+12:58:35.676:	method get (MicrosoftSignIn) is called.
+12:58:35.676:	weight is: 1
+12:58:35.677:	method get (MicrosoftStaySignedIn) is called.
+12:58:35.677:	weight is: 1
+12:58:35.677:	method get (OutlookFunctionality) is called.
+12:58:35.677:	weight is: 1
+12:58:35.677:	.\src\Testcase configuration\Element Config\browser elements - outlook.csvhas been read.
+12:58:35.678:	.\src\Testcase configuration\Element Config\browser elements - outlook.csvhas been written.
+12:58:37.767:	The method "close()" are called

@@ -1,0 +1,53 @@
+---------Start of logs---------
+14:28:17.389:	The method "logComment()" are called
+14:28:17.389:	<font color='grey'>Start of onboarding testing - will access Hive V2 Acquirer Portal, Outlook Web App, as well as mpos app</font>
+14:28:17.389:	The method "logComment()" are called
+14:28:17.389:	<font color='grey'>This case assumes the app has not been opened</font>
+14:28:17.390:	The method "logComment()" are called
+14:28:17.390:	<font color='grey'>This case assumes that the browser already remembers login credentials for Outlook Web App so no login is required</font>
+14:28:17.391:	The method "checkPassword()" are called
+14:28:17.391:	method loginToOutlook () is called.
+14:28:28.348:	method findCurrentPage(10) is called.
+14:28:28.852:	
+14:28:29.203:	Current page is: MicrosoftSignIn
+14:28:29.206:	inputText( MicrosoftSignInUsername , ytao@mobeewave.com is called.
+14:28:29.207:	finding elements by name MicrosoftSignInUsername
+14:28:29.211:	xpath is //*[@id="i0116"]
+14:28:29.322:	Webelement is [[ChromeDriver: chrome on XP (7f6799c64aea5051584e47f36ca7735b)] -> xpath: //*[@id="i0116"]]
+14:28:29.471:	MicrosoftSignInNext is being clicked.
+14:28:29.472:	finding elements by name MicrosoftSignInNext
+14:28:29.475:	xpath is //*[@id="idSIButton9"]
+14:28:29.560:	Webelement is [[ChromeDriver: chrome on XP (7f6799c64aea5051584e47f36ca7735b)] -> xpath: //*[@id="idSIButton9"]]
+14:28:29.670:	method findCurrentPage(10) is called.
+14:28:30.172:	
+14:28:30.749:	Current page is: MicrosoftPassword
+14:28:30.751:	inputText( MicrosoftPasswordPassword , Thankyou1 is called.
+14:28:30.752:	finding elements by name MicrosoftPasswordPassword
+14:28:30.754:	xpath is //*[@id="i0118"]
+14:28:30.833:	Webelement is [[ChromeDriver: chrome on XP (7f6799c64aea5051584e47f36ca7735b)] -> xpath: //*[@id="i0118"]]
+14:28:30.948:	MicrosoftPasswordSignIn is being clicked.
+14:28:30.949:	finding elements by name MicrosoftPasswordSignIn
+14:28:30.954:	xpath is //*[@id="idSIButton9"]
+14:28:31.048:	Webelement is [[ChromeDriver: chrome on XP (7f6799c64aea5051584e47f36ca7735b)] -> xpath: //*[@id="idSIButton9"]]
+14:28:31.927:	method findCurrentPage(10) is called.
+14:28:32.429:	
+14:28:32.829:	Current page is: MicrosoftStaySignedIn
+14:28:32.831:	MicrosoftStaySignedInYes is being clicked.
+14:28:32.832:	finding elements by name MicrosoftStaySignedInYes
+14:28:32.834:	xpath is //*[@id="idSIButton9"]
+14:28:32.919:	Webelement is [[ChromeDriver: chrome on XP (7f6799c64aea5051584e47f36ca7735b)] -> xpath: //*[@id="idSIButton9"]]
+14:28:34.594:	method findCurrentPage(10) is called.
+14:28:35.096:	
+14:28:35.885:	Current page is: 
+14:28:35.887:	This page  is not recognized.
+14:28:35.888:	method findCurrentPage(10) is called.
+14:28:36.389:	
+14:28:36.986:	Current page is: 
+14:28:36.988:	This page  is not recognized.
+14:28:36.989:	method findCurrentPage(10) is called.
+14:28:37.490:	
+14:28:37.933:	Current page is: 
+14:28:37.935:	This page  is not recognized.
+14:28:37.936:	method findCurrentPage(10) is called.
+14:28:38.436:	
+14:28:38.755:	Current page is: OutlookFunctionality

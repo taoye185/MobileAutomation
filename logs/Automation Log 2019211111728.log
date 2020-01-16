@@ -1,0 +1,10 @@
+---------Start of logs---------
+11:17:28.776:	The method "logComment()" are called
+11:17:28.776:	<font color='grey'>Start of onboarding testing - will access Hive V2 Acquirer Portal, Outlook Web App, as well as mpos app</font>
+11:17:28.776:	The method "logComment()" are called
+11:17:28.776:	<font color='grey'>This case assumes the app has not been opened</font>
+11:17:28.776:	The method "logComment()" are called
+11:17:28.776:	<font color='grey'>This case assumes that the browser already remembers login credentials for Outlook Web App so no login is required</font>
+11:17:28.776:	The method "logComment()" are called
+11:17:28.776:	<font color='grey'>Activation Email sent, now go check the email...</font>
+11:17:28.776:	The method "loginToOutlook()" are called

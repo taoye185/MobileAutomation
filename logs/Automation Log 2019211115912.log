@@ -1,0 +1,6 @@
+---------Start of logs---------
+11:59:12.356:	writeElement is called
+11:59:12.357:	method get (Login) is called.
+11:59:12.357:	weight is: 0
+11:59:12.357:	.\src\Testcase configuration\Element Config\browser elements - Hive V2.csvhas been read.
+11:59:12.357:	.\src\Testcase configuration\Element Config\browser elements - Hive V2.csvhas been written.

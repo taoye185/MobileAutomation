@@ -1,0 +1,63 @@
+---------Start of logs---------
+14:33:05.574:	The method "logComment()" are called
+14:33:05.574:	<font color='grey'>Start of onboarding testing - will access Hive V2 Acquirer Portal, Outlook Web App, as well as mpos app</font>
+14:33:05.575:	The method "logComment()" are called
+14:33:05.575:	<font color='grey'>This case assumes the app has not been opened</font>
+14:33:05.575:	The method "logComment()" are called
+14:33:05.575:	<font color='grey'>This case assumes that the browser already remembers login credentials for Outlook Web App so no login is required</font>
+14:33:05.575:	The method "logComment()" are called
+14:33:05.575:	<font color='grey'>Activation Email sent, now go check the email...</font>
+14:33:05.575:	The method "loginToOutlook()" are called
+14:33:05.575:	method loginToOutlook () is called.
+14:33:07.368:	method findCurrentPage(10) is called.
+14:33:07.868:	
+14:33:07.925:	Current page is: MicrosoftSignIn
+14:33:07.925:	inputText( MicrosoftSignInUsername , ytao@mobeewave.com is called.
+14:33:07.925:	finding elements by name MicrosoftSignInUsername
+14:33:08.137:	MicrosoftSignInNext is being clicked.
+14:33:08.137:	finding elements by name MicrosoftSignInNext
+14:33:08.270:	method findCurrentPage(10) is called.
+14:33:08.771:	
+14:33:08.900:	Current page is: MicrosoftPassword
+14:33:08.900:	inputText( MicrosoftPasswordPassword , Thankyou1 is called.
+14:33:08.900:	finding elements by name MicrosoftPasswordPassword
+14:33:09.001:	MicrosoftPasswordSignIn is being clicked.
+14:33:09.002:	finding elements by name MicrosoftPasswordSignIn
+14:33:09.536:	method findCurrentPage(10) is called.
+14:33:10.037:	
+14:33:10.416:	Current page is: MicrosoftStaySignedIn
+14:33:10.416:	MicrosoftStaySignedInYes is being clicked.
+14:33:10.416:	finding elements by name MicrosoftStaySignedInYes
+14:33:14.953:	method findCurrentPage(10) is called.
+14:33:15.454:	
+14:33:18.626:	Current page is: 
+14:33:18.626:	This page  is not recognized.
+14:33:18.626:	method findCurrentPage(10) is called.
+14:33:19.126:	
+14:33:20.132:	Current page is: OutlookFunctionality
+14:33:20.133:	The method "waitUntilPresent()" are called
+14:33:20.613:	The method "clickButton()" are called
+14:33:20.613:	OutlookFunctionalityEmailSearchCover is being clicked.
+14:33:20.613:	finding elements by name OutlookFunctionalityEmailSearchCover
+14:33:21.138:	The method "waitUntilPresent()" are called
+14:33:21.215:	The method "inputText(National Bank Easy Pay Registration Instructions)" are called
+14:33:21.215:	inputText( OutlookFunctionalityEmailSearch , National Bank Easy Pay Registration Instructions is called.
+14:33:21.215:	finding elements by name OutlookFunctionalityEmailSearch
+14:33:23.276:	The method "clickButton()" are called
+14:33:23.276:	OutlookFunctionalitySearchButton is being clicked.
+14:33:23.276:	finding elements by name OutlookFunctionalitySearchButton
+14:33:23.642:	The method "wait()" are called
+14:33:26.643:	The method "clickButton()" are called
+14:33:26.643:	test1 is being clicked.
+14:33:26.643:	finding elements by name test1
+14:33:27.208:	exception caught during button click, failed to find test1
+14:33:27.208:	The method "clickButton()" are called
+14:33:27.208:	test2 is being clicked.
+14:33:27.208:	finding elements by name test2
+14:33:27.271:	exception caught during button click, failed to find test2
+14:33:27.271:	The method "clickButton()" are called
+14:33:27.271:	test3 is being clicked.
+14:33:27.272:	finding elements by name test3
+14:33:27.299:	exception caught during button click, failed to find test3
+14:33:27.299:	<font color='blue'>Test Case: TS_1 completed.</font>
+14:33:27.300:	-----------------------------------<br>

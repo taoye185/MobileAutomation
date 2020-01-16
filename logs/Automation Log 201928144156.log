@@ -1,0 +1,78 @@
+---------Start of logs---------
+14:41:56.505:	The method "logComment()" are called
+14:41:56.505:	<font color='grey'>Start of onboarding testing - will access Hive V2 Acquirer Portal, Outlook Web App, as well as mpos app</font>
+14:41:56.505:	The method "logComment()" are called
+14:41:56.505:	<font color='grey'>This case assumes the app has not been opened</font>
+14:41:56.505:	The method "logComment()" are called
+14:41:56.505:	<font color='grey'>This case assumes that the browser already remembers login credentials for Outlook Web App so no login is required</font>
+14:41:56.505:	The method "logComment()" are called
+14:41:56.506:	<font color='grey'>Activation Email sent, now go check the email...</font>
+14:41:56.506:	The method "loginToOutlook()" are called
+14:41:56.506:	method loginToOutlook () is called.
+14:41:58.215:	method findCurrentPage(10) is called.
+14:41:58.716:	
+14:41:58.779:	Current page is: MicrosoftSignIn
+14:41:58.779:	inputText( MicrosoftSignInUsername , ytao@mobeewave.com is called.
+14:41:58.779:	finding elements by name MicrosoftSignInUsername
+14:41:58.780:	xpath is //*[@id="i0116"]
+14:41:58.986:	MicrosoftSignInNext is being clicked.
+14:41:58.986:	finding elements by name MicrosoftSignInNext
+14:41:58.986:	xpath is //*[@id="idSIButton9"]
+14:41:59.124:	method findCurrentPage(10) is called.
+14:41:59.625:	
+14:41:59.750:	Current page is: MicrosoftPassword
+14:41:59.750:	inputText( MicrosoftPasswordPassword , Thankyou1 is called.
+14:41:59.750:	finding elements by name MicrosoftPasswordPassword
+14:41:59.750:	xpath is //*[@id="i0118"]
+14:41:59.886:	MicrosoftPasswordSignIn is being clicked.
+14:41:59.886:	finding elements by name MicrosoftPasswordSignIn
+14:41:59.886:	xpath is //*[@id="idSIButton9"]
+14:42:00.554:	method findCurrentPage(10) is called.
+14:42:01.055:	
+14:42:01.358:	Current page is: MicrosoftStaySignedIn
+14:42:01.358:	MicrosoftStaySignedInYes is being clicked.
+14:42:01.358:	finding elements by name MicrosoftStaySignedInYes
+14:42:01.358:	xpath is //*[@id="idSIButton9"]
+14:42:04.375:	method findCurrentPage(10) is called.
+14:42:04.876:	
+14:42:05.658:	Current page is: 
+14:42:05.658:	This page  is not recognized.
+14:42:05.659:	method findCurrentPage(10) is called.
+14:42:06.160:	
+14:42:06.603:	Current page is: 
+14:42:06.603:	This page  is not recognized.
+14:42:06.603:	method findCurrentPage(10) is called.
+14:42:07.104:	
+14:42:07.480:	Current page is: OutlookFunctionality
+14:42:07.480:	The method "waitUntilPresent()" are called
+14:42:07.545:	The method "clickButton()" are called
+14:42:07.545:	OutlookFunctionalityEmailSearchCover is being clicked.
+14:42:07.545:	finding elements by name OutlookFunctionalityEmailSearchCover
+14:42:07.545:	xpath is //*[@id="primaryContainer"]/div[4]/div/div[1]/div/div[1]/div[1]/div/div/div[1]/div[1]/div[1]/div[2]/div[2]/button/span[2]
+14:42:07.951:	The method "waitUntilPresent()" are called
+14:42:08.575:	The method "inputText(National Bank Easy Pay Registration Instructions)" are called
+14:42:08.575:	inputText( OutlookFunctionalityEmailSearch , National Bank Easy Pay Registration Instructions is called.
+14:42:08.575:	finding elements by name OutlookFunctionalityEmailSearch
+14:42:08.575:	xpath is //*[@id="primaryContainer"]/div[4]/div/div[1]/div/div[1]/div[1]/div/div/div[1]/div[1]/div[1]/div[2]/div[2]/div/div[1]/div/form/div/input
+14:42:12.412:	The method "clickButton()" are called
+14:42:12.413:	OutlookFunctionalitySearchButton is being clicked.
+14:42:12.413:	finding elements by name OutlookFunctionalitySearchButton
+14:42:12.413:	xpath is //*[@id="primaryContainer"]/div[4]/div/div[1]/div/div[1]/div[1]/div/div/div[1]/div[1]/div[1]/div[2]/div[2]/div/div[1]/div/button[1]
+14:42:12.793:	The method "wait()" are called
+14:42:15.794:	The method "clickButton()" are called
+14:42:15.794:	test1 is being clicked.
+14:42:15.794:	finding elements by name test1
+14:42:15.794:	xpath is //*[contains(text(),'National Bank Easy Pay Registration')]
+14:43:02.978:	exception caught during button click, failed to find test1
+14:43:02.978:	The method "clickButton()" are called
+14:43:02.978:	test2 is being clicked.
+14:43:02.978:	finding elements by name test2
+14:43:02.978:	xpath is //*[contains(text(),'re almost there.')]/../../..
+14:43:02.983:	exception caught during button click, failed to find test2
+14:43:02.983:	The method "clickButton()" are called
+14:43:02.983:	test3 is being clicked.
+14:43:02.983:	finding elements by name test3
+14:43:02.983:	xpath is //*[contains(text(),'All folders')]
+14:43:02.988:	exception caught during button click, failed to find test3
+14:43:02.989:	<font color='blue'>Test Case: TS_1 completed.</font>
+14:43:02.989:	-----------------------------------<br>

@@ -1,0 +1,16 @@
+---------Start of logs---------
+11:18:17.233:	method sortby (mobilePage, count,Desc) is called.
+11:18:17.280:	method addObjectToSortedList ([], 0, 0, mobilePage@17159c0, count, Desc) is called.
+11:18:17.280:	method addObjectToSortedList ([mobilePage@17159c0], 0, 1, mobilePage@27ba32, count, Desc) is called.
+11:18:17.280:	method compareInVector ([mobilePage@17159c0], 0, mobilePage@27ba32, count) is called.
+11:18:17.280:	method get (0, count) is called.
+11:18:17.280:	method addObjectToSortedList ([mobilePage@27ba32, mobilePage@17159c0], 0, 2, mobilePage@f82753, count, Desc) is called.
+11:18:17.295:	method compareInVector ([mobilePage@27ba32, mobilePage@17159c0], 1, mobilePage@f82753, count) is called.
+11:18:17.295:	method get (1, count) is called.
+11:18:17.295:	method addObjectToSortedList ([mobilePage@27ba32, mobilePage@f82753, mobilePage@17159c0], 0, 3, mobilePage@10fe47a, count, Desc) is called.
+11:18:17.295:	method compareInVector ([mobilePage@27ba32, mobilePage@f82753, mobilePage@17159c0], 1, mobilePage@10fe47a, count) is called.
+11:18:17.295:	method get (1, count) is called.
+11:18:17.295:	method addObjectToSortedList ([mobilePage@27ba32, mobilePage@10fe47a, mobilePage@f82753, mobilePage@17159c0], 0, 4, mobilePage@2b0582, count, Desc) is called.
+11:18:17.295:	method compareInVector ([mobilePage@27ba32, mobilePage@10fe47a, mobilePage@f82753, mobilePage@17159c0], 2, mobilePage@2b0582, count) is called.
+11:18:17.295:	method get (2, count) is called.
+11:18:20.406:	ChromeDriver created.

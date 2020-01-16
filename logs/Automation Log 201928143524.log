@@ -1,0 +1,36 @@
+---------Start of logs---------
+14:35:24.559:	writeElement is called
+14:35:24.560:	method get (MicrosoftPassword) is called.
+14:35:24.560:	weight is: 1
+14:35:24.560:	method get (MicrosoftSignIn) is called.
+14:35:24.560:	weight is: 1
+14:35:24.560:	method get (MicrosoftStaySignedIn) is called.
+14:35:24.560:	weight is: 1
+14:35:24.560:	method get (OutlookFunctionality) is called.
+14:35:24.560:	weight is: 1
+14:35:24.561:	.\src\Testcase configuration\Element Config\browser elements - outlook.csvhas been read.
+14:35:24.562:	error encountered when closing Outlook
+14:35:24.565:	reportHeader is: <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+<title>Mobeewave Automation Report</title>
+<style type="text/css">table {margin-bottom:10px;border-collapse:collapse;empty-cells:show}th,td {border:1px solid #009;padding:.25em .5em}th {vertical-align:bottom}td {vertical-align:top}table a {font-weight:bold}.stripe td {background-color: #E6EBF9}.num {text-align:right}.passedodd td {background-color: #3F3}.passedeven td {background-color: #0A0}.skippedodd td {background-color: #DDD}.skippedeven td {background-color: #CCC}.failedodd td,.attn {background-color: #F33}.failedeven td,.stripe .attn {background-color: #D00}.stacktrace {white-space:pre;font-family:monospace}.totop {font-size:85%;text-align:center;border-bottom:2px solid #000}.invisible {display:none}</style>
+</head>
+<body>
+<table>
+<tr><th colspan="7">Test Statistics</th></tr>
+<tr><td><a href="#t0">Default test</a></td><td class="num">18,571</td></tr>
+</table>
+<h2>Default test</h2>
+<table class="result"><tr><th>Result</th></tr><tr><td><div class="stacktrace">
+14:35:24.566:	reportFooter is: </div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+</body>
+</html>
+14:35:24.566:	reportContent is: <font color='grey'>Start of onboarding testing - will access Hive V2 Acquirer Portal, Outlook Web App, as well as mpos app</font>
+<br><font color='grey'>This case assumes the app has not been opened</font>
+<br><font color='grey'>This case assumes that the browser already remembers login credentials for Outlook Web App so no login is required</font>
+<br><font color='grey'>Activation Email sent, now go check the email...</font>
+<br><font color='blue'>Test Case: TS_1 completed.</font>
+<br>-----------------------------------<br>
+<br>
